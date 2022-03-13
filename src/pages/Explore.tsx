@@ -16,6 +16,7 @@ const Explore: FC = () => {
 
   if (error) return <Error />;
 
+
   return (
     <>
       <Title value="Explore - FilmHot" />

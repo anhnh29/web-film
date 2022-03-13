@@ -29,7 +29,7 @@ const Sidebar: FC<SidebarProps> = ({ sidebarActive, setSidebarActive }) => {
       >
         <Link to='/' className='flex gap-2 items-center'>
           <img className='w-6 h-6' src='/icon.png' alt='' />
-          <p className='font-semibold text-xl block sm:hidden xl:block'>Hgh</p>
+          <p className='font-semibold text-xl block sm:hidden xl:block'>H</p>
         </Link>
 
         <div className='mt-0 sm:mt-4 xl:mt-0 block sm:flex flex-col gap-0 sm:gap-4 xl:block xl:gap-0'>
